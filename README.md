@@ -1,5 +1,4 @@
 # To_Do_List
-# To-Do List 
 
 ## Description
 The To-Do List  is a simple Python project that helps users manage their daily tasks through a command-line interface.
